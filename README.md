@@ -1,3 +1,4 @@
+  ```
   1 # スクリプト読み込み
   2 source $HOME/.git-completion.bash
   3 source $HOME/.git-prompt.sh
@@ -29,3 +30,4 @@
  29 [[ -e ~/.phpbrew/bashrc ]] && source ~/.phpbrew/bashrc
  30 export PATH=$(brew --prefix openssl)/bin:$PATH
 .bashrc
+```
